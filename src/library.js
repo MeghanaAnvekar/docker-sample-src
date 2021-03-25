@@ -1,3 +1,4 @@
+//dummy comment
 const logger = require('./logger');
 function calculateSquares(data){
 	var nums = data.split("\n");
